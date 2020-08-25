@@ -16,10 +16,12 @@
 prebuilt_font {
     name: "Barlow-Bold.ttf",
     src: "Barlow-Bold.ttf",
+    product_specific: true,
 }
         
 prebuilt_font {
     name: "Barlow-Medium.ttf",
     src: "Barlow-Medium.ttf",
+    product_specific: true,
 }
         
